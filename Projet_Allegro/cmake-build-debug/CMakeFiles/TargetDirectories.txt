@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/Projet_Allegro/cmake-build-debug/CMakeFiles/Projet_Allegro.dir
+C:/Users/PC/CLionProjects/Projet_Allegro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/Projet_Allegro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
